@@ -4,6 +4,7 @@ public class Hello {
 
 
         System.out.println("Testing continuous integration...");
+        System.out.println("Testing branches");
         
         System.out.println("Hello from Daniel");
         for(int i=1;i<=10;i++) {
